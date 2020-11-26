@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: StatefulSet
 metadata:
-  name: budget-peer
+  name: peer1
   labels:
     app: budget-peer
 spec:
